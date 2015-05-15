@@ -1,10 +1,10 @@
 {
 "uuid": "703b16db-2e94-4b39-83ea-3f206a254235",
-"shortName": "Drink Counter",
-"longName": "Drink Counter",
-"companyName": "Pebble Technology",
-"versionCode": 2,
-"versionLabel": "2.0",
+"shortName": "4italo4ka",
+"longName": "4italo4ka",
+"companyName": "stupiddev",
+"versionCode": 1,
+"versionLabel": "1.0",
 "watchapp": {
 "watchface": false
 },
@@ -27,5 +27,5 @@
 "aplite",
 "basalt"
 ],
-"sdkVersion": "3"
+"sdkVersion": "2"
 }
